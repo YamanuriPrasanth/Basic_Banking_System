@@ -40,4 +40,4 @@ Below are the screenshots of the website <br>
 
 # GRIPOCT21
 
-![GRIP21-Basic-Banking-System](https://socialify.git.ci/YamanuriPrasanth/Basic-Banking-System/image?description=1&forks=1&issues=1&owner=1&pulls=1&stargazers=1&theme=Dark)
+![GRIP21-Basic-Banking-System](https://socialify.git.ci/YamanuriPrasanth/Basic_Banking_System/image?description=1&descriptionEditable=A%20Small%20Banking%20Website%20which%20is%20used%20to%20transfer%20the%20amount%20between%20the%20users%20as%20depicted%20in%20the%20Project.&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fwww.djangoproject.com%2Fm%2Fimg%2Flogos%2Fdjango-logo-negative.png&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
