@@ -3,6 +3,25 @@
 ### Project under internship at The Sparks Foundation
 
 #### Project Name-Basic Banking System
+
+
+## Introduction
+>  
+> A web application used to transfer money between two users.
+
+## Technologies Used:
+>  ### Front-End:
+- HTML
+- CSS
+
+> ### Back-End:
+-  Django
+
+
+### Flow of the website
+Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
+
+Below are the screenshots of the website
 #### Database-Sqlite3
 #### Web Framework-Django
 ![1](https://user-images.githubusercontent.com/54884765/157828314-f62dedd7-ef55-467b-a394-bc21fe460bb9.png)
