@@ -28,7 +28,7 @@ The Transaction table records all transfers happened along with their time. <br>
 #### Web Framework-Django
 
 ### Flow of the website
-Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
+Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer <br/>
 
 Below are the screenshots of the website
 ![1](https://user-images.githubusercontent.com/54884765/157828314-f62dedd7-ef55-467b-a394-bc21fe460bb9.png)
