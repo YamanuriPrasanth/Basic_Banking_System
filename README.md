@@ -40,4 +40,4 @@ Below are the screenshots of the website <br>
 
 # GRIPOCT21
 
-![GRIP21-Basic-Banking-System](https://socialify.git.ci/YamanuriPrasanth/Basic-Banking-System?description=1&forks=1&issues=1&owner=1&pulls=1&stargazers=1&theme=Dark)
+![GRIP21-Basic-Banking-System](https://socialify.git.ci/YamanuriPrasanth/Basic-Banking-System/image?description=1&forks=1&issues=1&owner=1&pulls=1&stargazers=1&theme=Dark)
